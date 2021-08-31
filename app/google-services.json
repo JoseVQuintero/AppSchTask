@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763222773681",
+    "project_id": "schtask-ba86d",
+    "storage_bucket": "schtask-ba86d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763222773681:android:ca4f8418f13bda55893790",
+        "android_client_info": {
+          "package_name": "com.joe.appschtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763222773681-c6403f2m13qq71ufg00onlc7go1cklvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFpf08SebvPMXMetYzV_1tGG6AwXoq0a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763222773681-c6403f2m13qq71ufg00onlc7go1cklvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

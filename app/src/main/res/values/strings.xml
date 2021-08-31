@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSchTask</string>
+    <string name="error_email">Please type a correct email</string>
+    <string name="error_password">Please type a correct password</string>
+    <string name="error_try_again">Please try again.</string>
+    <string name="next">Next</string>
+    <string name="complete">Complete</string>
+</resources>
